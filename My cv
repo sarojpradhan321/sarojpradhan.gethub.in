@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Saroj Pradhan - CV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f6f9;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    section {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
+    .contact {
+      text-align: center;
+      margin-top: 10px;
+    }
+    .contact a {
+      color: #2c3e50;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    footer {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Saroj Pradhan</h1>
+    <p>Collaborative and Enthusiastic Individual</p>
+    <div class="contact">
+      <p>📱 6370123648 | 📧 sarojpradhan6370123@gmail.com</p>
+      <p>📍 Rolasingh, Bolagarh, Khordha, Odisha</p>
+    </div>
+  </header>
+
+  <section>
+    <h2>Summary</h2>
+    <p>A collaborative and enthusiastic individual seeking a challenging environment that encourages continuous learning and creativity. Possessing self-confidence, excellent time management, and strong interpersonal communication skills.</p>
+
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Graduation (in progress):</strong> Education Honours</li>
+      <li><strong>12th (2023):</strong> CBSE – 61%</li>
+      <li><strong>10th (2021):</strong> BSE – 62%</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>Time Management</li>
+      <li>Communication Skills</li>
+      <li>Teamwork</li>
+      <li>Problem Solving</li>
+    </ul>
+
+    <h2>Career Goal</h2>
+    <p>To build a career in a dynamic environment where I can grow my skills and contribute effectively to the organization’s success.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Saroj Pradhan | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
